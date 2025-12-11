@@ -56,7 +56,7 @@ const addresses = [
     map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.441057441154!2d-46.52983622417379!3d-23.660180178732066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce4288ecf7dd77%3A0x1dc8908562d39ba7!2sR.%20Gertr%C3%BAdes%20de%20Lima%2C%2053%20-%203%C2%BA%20andar%2C%20sala%2034%20-%20Centro%2C%20Santo%20Andr%C3%A9%20-%20SP%2C%2009020-000!5e0!3m2!1spt-BR!2sbr!4v1738158640346!5m2!1spt-BR!2sbr',
   },
   {
-    label: 'Taboão da Serra/SP',
+    label: 'Teste123',
     key: 'taboao-da-serra',
     address: 'Estrada São Francisco, 2008 - Sala 210',
     map: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3655.5765771005726!2d-46.773882017141375!3d-23.619513873235498!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5468fd34534b%3A0x6298ef32865cbd4b!2sMetropolitan%20Empreendimento%20Comercial!5e0!3m2!1spt-BR!2sbr!4v1738360940594!5m2!1spt-BR!2sbr',
