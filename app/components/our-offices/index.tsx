@@ -94,7 +94,7 @@ const addresses = [
 
   {
     label: 'Florianópolis - SC',
-    key: 'Florianópolis',
+    key: 'florianopolis',
     address: 'R. Deodoro, 226 - Sala 903 - Centro - Condomínio do Edifício Marco Pólo',
     map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.9136478077994!2d-48.55368402449438!3d-27.596206676246453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952738247fd5bcff%3A0x3fba419862d28c62!2sCondom%C3%ADnio%20do%20Edif%C3%ADcio%20Marco%20P%C3%B3lo!5e0!3m2!1spt-BR!2sbr!4v1765462988991!5m2!1spt-BR!2sbr',
   },
