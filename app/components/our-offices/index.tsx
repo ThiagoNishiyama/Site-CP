@@ -82,8 +82,8 @@ const addresses = [
   {
     label: 'Belém/PA',
     key: 'belem',
-    address: 'TV Piedade, 469 3 Andar Sala 302 Reduto',
-    map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.541157207826!2d-48.49614182449595!3d-1.449759098536592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a48e9160604b69%3A0xaac6fa4b9f887b28!2sTv.%20Piedade%2C%20469%20-%203%20Andar%20Sala%20302%20-%20Reduto%2C%20Bel%C3%A9m%20-%20PA%2C%2066053-210!5e0!3m2!1spt-BR!2sbr!4v1738159659534!5m2!1spt-BR!2sbr',
+    address: 'Rua dos Mundurucus, 1427 1 Andar Sala 117 Reduto',
+    map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5184106191164!2d-48.493956224986526!3d-1.4626130985236303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a48e639f5ec1e9%3A0x8e8681b634fcd9b8!2sR.%20dos%20Mundurucus%2C%201427%20-%20S%C3%A3o%20Br%C3%A1s%2C%20Bel%C3%A9m%20-%20PA%2C%2066033-716!5e0!3m2!1spt-BR!2sbr!4v1765463453176!5m2!1spt-BR!2sbr',
   },
   {
     label: 'Belo Horizonte/MG',
@@ -93,10 +93,10 @@ const addresses = [
   },
 
   {
-    label: 'Pindamonhangaba/SP',
-    key: 'pindamonhangaba',
-    address: 'R. Cap. Alfredo César, 37 - Centro',
-    map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.678211119402!2d-45.468679900000005!3d-22.9252369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccf0387f83d60d%3A0xbbd29c6f539b82ca!2sR.%20Cap.%20Alfredo%20C%C3%A9sar%2C%2037%20-%20Centro%2C%20Pindamonhangaba%20-%20SP%2C%2012400-150!5e0!3m2!1spt-BR!2sbr!4v1738158137948!5m2!1spt-BR!2sbr',
+    label: 'Florianópolis - SC',
+    key: 'Florianópolis',
+    address: 'R. Deodoro, 226 - Sala 903 - Centro - Condomínio do Edifício Marco Pólo',
+    map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.9136478077994!2d-48.55368402449438!3d-27.596206676246453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952738247fd5bcff%3A0x3fba419862d28c62!2sCondom%C3%ADnio%20do%20Edif%C3%ADcio%20Marco%20P%C3%B3lo!5e0!3m2!1spt-BR!2sbr!4v1765462988991!5m2!1spt-BR!2sbr',
   },
 ];
 
