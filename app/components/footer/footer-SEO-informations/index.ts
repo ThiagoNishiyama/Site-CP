@@ -87,23 +87,6 @@ export const footersInformations = {
         ],
       },
       {
-        label: 'Outros',
-        links: [
-          {
-            label: 'Painel Solar',
-            link: '/produto/outros/painel-solar',
-          },
-          {
-            label: 'Capital de Giro',
-            link: '/produto/outros/capital-de-giro',
-          },
-          {
-            label: 'Operações Estruturadas',
-            link: '/produto/outros/operacoes-estruturadas',
-          },
-        ],
-      },
-      {
         label: 'Institucional',
         links: [
           {

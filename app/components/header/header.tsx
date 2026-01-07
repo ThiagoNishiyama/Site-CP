@@ -155,24 +155,6 @@ const headerData: HeaderData = {
           },
         ],
       },
-      {
-        title: 'Outros',
-        icon: <BuildingIcon className="size-5 " />,
-        links: [
-          {
-            title: 'Painel Solar',
-            href: '/produto/outros/painel-solar',
-          },
-          {
-            title: 'Capital de Giro',
-            href: '/produto/outros/capital-de-giro',
-          },
-          {
-            title: 'Operações Estruturadas',
-            href: '/produto/outros/operacoes-estruturadas',
-          },
-        ],
-      },
     ],
   },
   institutional: {
